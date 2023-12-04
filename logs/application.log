@@ -1,0 +1,83 @@
+22-11-2023 09:21:02.426 [main] INFO  com.demo.ELK.ElkApplication.logStarting - Starting ElkApplication using Java 18.0.1 on DESKTOP-F8SM5EF with PID 22404 (C:\Users\daniela.sanchez\Downloads\ELK\target\classes started by daniela.sanchez in C:\Users\daniela.sanchez\Downloads\ELK)
+22-11-2023 09:21:02.428 [main] INFO  com.demo.ELK.ElkApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+22-11-2023 09:21:03.227 [main] INFO  com.demo.ELK.ElkApplication.logStarted - Started ElkApplication in 1.237 seconds (JVM running for 1.498)
+22-11-2023 09:24:38.437 [http-nio-8080-exec-5] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+22-11-2023 09:24:38.439 [http-nio-8080-exec-5] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Wed Nov 22 09:24:38 COT 2023
+22-11-2023 09:25:11.099 [http-nio-8080-exec-6] INFO  c.demo.ELK.controller.ELKController.foodDetails - Inside Food Detail Function
+22-11-2023 09:25:11.099 [http-nio-8080-exec-6] INFO  com.demo.ELK.services.ELKService.getAllFoodDetails - Fetching ALL food details...
+22-11-2023 09:55:58.882 [main] INFO  com.demo.ELK.ElkApplication.logStarting - Starting ElkApplication using Java 18.0.1 on DESKTOP-F8SM5EF with PID 17292 (C:\Users\daniela.sanchez\Downloads\ELK\target\classes started by daniela.sanchez in C:\Users\daniela.sanchez\Downloads\ELK)
+22-11-2023 09:55:58.883 [main] INFO  com.demo.ELK.ElkApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+22-11-2023 09:55:59.805 [main] INFO  com.demo.ELK.ElkApplication.logStarted - Started ElkApplication in 1.556 seconds (JVM running for 1.979)
+22-11-2023 09:56:19.991 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+22-11-2023 09:56:19.993 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Wed Nov 22 09:56:19 COT 2023
+22-11-2023 10:06:57.872 [http-nio-8080-exec-6] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+22-11-2023 10:06:57.872 [http-nio-8080-exec-6] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Wed Nov 22 10:06:57 COT 2023
+22-11-2023 10:53:18.307 [http-nio-8080-exec-8] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+22-11-2023 10:53:18.308 [http-nio-8080-exec-8] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Wed Nov 22 10:53:18 COT 2023
+22-11-2023 11:12:58.394 [http-nio-8080-exec-10] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+22-11-2023 11:12:58.394 [http-nio-8080-exec-10] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Wed Nov 22 11:12:58 COT 2023
+22-11-2023 11:15:23.324 [http-nio-8080-exec-4] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+22-11-2023 11:15:23.325 [http-nio-8080-exec-4] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Wed Nov 22 11:15:23 COT 2023
+22-11-2023 11:50:45.368 [http-nio-8080-exec-5] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+22-11-2023 11:50:45.369 [http-nio-8080-exec-5] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Wed Nov 22 11:50:45 COT 2023
+22-11-2023 11:50:51.778 [http-nio-8080-exec-8] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+22-11-2023 11:50:51.778 [http-nio-8080-exec-8] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Wed Nov 22 11:50:51 COT 2023
+22-11-2023 14:34:19.513 [http-nio-8080-exec-10] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+22-11-2023 14:34:19.658 [http-nio-8080-exec-10] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Wed Nov 22 14:34:19 COT 2023
+23-11-2023 10:48:47.698 [main] INFO  com.demo.ELK.ElkApplication.logStarting - Starting ElkApplication using Java 18.0.1 on DESKTOP-F8SM5EF with PID 12892 (C:\Users\daniela.sanchez\Downloads\ELK\target\classes started by daniela.sanchez in C:\Users\daniela.sanchez\Downloads\ELK)
+23-11-2023 10:48:47.709 [main] INFO  com.demo.ELK.ElkApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+23-11-2023 10:48:49.091 [main] INFO  com.demo.ELK.ElkApplication.logStarted - Started ElkApplication in 2.353 seconds (JVM running for 3.364)
+23-11-2023 10:51:04.673 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+23-11-2023 10:51:04.675 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu Nov 23 10:51:04 COT 2023
+23-11-2023 10:55:53.992 [http-nio-8080-exec-2] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+23-11-2023 10:55:53.993 [http-nio-8080-exec-2] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu Nov 23 10:55:53 COT 2023
+23-11-2023 12:25:03.994 [http-nio-8080-exec-3] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+23-11-2023 12:25:04.039 [http-nio-8080-exec-3] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu Nov 23 12:25:04 COT 2023
+23-11-2023 12:25:24.422 [http-nio-8080-exec-9] INFO  c.demo.ELK.controller.ELKController.foodDetails - Inside Food Detail Function
+23-11-2023 12:25:24.432 [http-nio-8080-exec-9] INFO  com.demo.ELK.services.ELKService.getAllFoodDetails - Fetching ALL food details...
+23-11-2023 12:29:03.175 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+23-11-2023 12:29:03.176 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu Nov 23 12:29:03 COT 2023
+23-11-2023 14:10:01.678 [http-nio-8080-exec-2] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+23-11-2023 14:10:01.682 [http-nio-8080-exec-2] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu Nov 23 14:10:01 COT 2023
+23-11-2023 14:11:38.600 [http-nio-8080-exec-3] INFO  c.demo.ELK.controller.ELKController.foodDetails - Inside Food Detail Function
+23-11-2023 14:11:38.600 [http-nio-8080-exec-3] INFO  com.demo.ELK.services.ELKService.getAllFoodDetails - Fetching ALL food details...
+23-11-2023 14:41:33.940 [http-nio-8080-exec-4] INFO  c.demo.ELK.controller.ELKController.foodDetails - Inside Food Detail Function
+23-11-2023 14:41:33.940 [http-nio-8080-exec-4] INFO  com.demo.ELK.services.ELKService.getAllFoodDetails - Fetching ALL food details...
+23-11-2023 14:41:36.369 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+23-11-2023 14:41:36.369 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu Nov 23 14:41:36 COT 2023
+27-11-2023 09:49:49.030 [main] INFO  com.demo.ELK.ElkApplication.logStarting - Starting ElkApplication using Java 18.0.1 on DESKTOP-F8SM5EF with PID 18104 (C:\Users\daniela.sanchez\Downloads\ELK\target\classes started by daniela.sanchez in C:\Users\daniela.sanchez\Downloads\ELK)
+27-11-2023 09:49:49.032 [main] INFO  com.demo.ELK.ElkApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+27-11-2023 09:49:51.198 [main] INFO  com.demo.ELK.ElkApplication.logStarted - Started ElkApplication in 2.918 seconds (JVM running for 3.749)
+27-11-2023 09:50:05.139 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+27-11-2023 09:50:05.141 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 27 09:50:05 COT 2023
+27-11-2023 09:52:01.504 [http-nio-8080-exec-3] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+27-11-2023 09:52:01.504 [http-nio-8080-exec-3] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 27 09:52:01 COT 2023
+27-11-2023 10:33:10.459 [http-nio-8080-exec-8] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+27-11-2023 10:33:10.459 [http-nio-8080-exec-8] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 27 10:33:10 COT 2023
+27-11-2023 10:33:27.579 [http-nio-8080-exec-9] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+27-11-2023 10:33:27.580 [http-nio-8080-exec-9] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 27 10:33:27 COT 2023
+27-11-2023 10:36:36.524 [http-nio-8080-exec-2] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+27-11-2023 10:36:36.524 [http-nio-8080-exec-2] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 27 10:36:36 COT 2023
+28-11-2023 07:54:33.112 [main] INFO  com.demo.ELK.ElkApplication.logStarting - Starting ElkApplication using Java 18.0.1 on DESKTOP-F8SM5EF with PID 27964 (C:\Users\daniela.sanchez\Downloads\ELK\target\classes started by daniela.sanchez in C:\Users\daniela.sanchez\Downloads\ELK)
+28-11-2023 07:54:33.149 [main] INFO  com.demo.ELK.ElkApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+28-11-2023 07:54:41.303 [main] INFO  com.demo.ELK.ElkApplication.logStarted - Started ElkApplication in 16.2 seconds (JVM running for 18.681)
+28-11-2023 07:55:37.329 [http-nio-8080-exec-2] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+28-11-2023 07:55:37.331 [http-nio-8080-exec-2] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Tue Nov 28 07:55:37 COT 2023
+30-11-2023 15:13:21.569 [main] INFO  com.demo.ELK.ElkApplication.logStarting - Starting ElkApplication using Java 18.0.1 on DESKTOP-F8SM5EF with PID 17364 (C:\Users\daniela.sanchez\Downloads\ELK\target\classes started by daniela.sanchez in C:\Users\daniela.sanchez\Downloads\ELK)
+30-11-2023 15:13:21.571 [main] INFO  com.demo.ELK.ElkApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+30-11-2023 15:13:22.777 [main] INFO  com.demo.ELK.ElkApplication.logStarted - Started ElkApplication in 1.709 seconds (JVM running for 2.097)
+30-11-2023 15:13:38.221 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+30-11-2023 15:13:38.221 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu Nov 30 15:13:38 COT 2023
+30-11-2023 15:13:41.505 [http-nio-8080-exec-3] INFO  c.demo.ELK.controller.ELKController.foodDetails - Inside Food Detail Function
+30-11-2023 15:13:41.505 [http-nio-8080-exec-3] INFO  com.demo.ELK.services.ELKService.getAllFoodDetails - Fetching ALL food details...
+30-11-2023 15:30:55.887 [http-nio-8080-exec-6] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+30-11-2023 15:30:55.887 [http-nio-8080-exec-6] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Thu Nov 30 15:30:55 COT 2023
+04-12-2023 07:23:34.686 [main] INFO  com.demo.ELK.ElkApplication.logStarting - Starting ElkApplication using Java 18.0.1 on DESKTOP-F8SM5EF with PID 12064 (C:\Users\daniela.sanchez\Downloads\ELK\target\classes started by daniela.sanchez in C:\Users\daniela.sanchez\Downloads\ELK)
+04-12-2023 07:23:34.759 [main] INFO  com.demo.ELK.ElkApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+04-12-2023 07:23:41.699 [main] INFO  com.demo.ELK.ElkApplication.logStarted - Started ElkApplication in 11.277 seconds (JVM running for 22.175)
+04-12-2023 07:24:06.333 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+04-12-2023 07:24:06.334 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Mon Dec 04 07:24:06 COT 2023
+04-12-2023 07:25:50.664 [http-nio-8080-exec-5] INFO  c.demo.ELK.controller.ELKController.foodDetails - Inside Food Detail Function
+04-12-2023 07:25:50.696 [http-nio-8080-exec-5] INFO  com.demo.ELK.services.ELKService.getAllFoodDetails - Fetching ALL food details...
+04-12-2023 07:56:27.702 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Inside Hello World Function
+04-12-2023 07:56:27.702 [http-nio-8080-exec-1] INFO  c.demo.ELK.controller.ELKController.helloWorld - Response => Hello World! Mon Dec 04 07:56:27 COT 2023
